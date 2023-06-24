@@ -13,7 +13,6 @@
 #### Experiences
 ###### NFT Mint Dapps In Several Chains  
 - PiracyPunks: https://www.piracypunks.com
-- HellDemons: https://helldemon.cryptoliveton.com
 - Ragnarregiment: https://theragnarregiment.com
 ###### NFT Marketplaces
 - RealestClub: https://realest.club  
