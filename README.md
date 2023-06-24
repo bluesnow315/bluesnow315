@@ -12,20 +12,11 @@
 
 #### Experiences
 ###### NFT Mint Dapps In Several Chains  
-- PiracyPunks: https://www.piracypunks.com
-- Ragnarregiment: https://theragnarregiment.com
-###### NFT Marketplaces
-- RealestClub: https://realest.club  
-- RealestClub in Sepolia: https://realest.cryptoliveton.com  
-- Audioburst: https://nft.audioburst.io
-- LunaChowNFT: https://lunachownft.com
-###### DEX && CEX
-- LuchowSwap   
-    BSC: https://bsc.luchowswap.com      
-    ETH: https://eth.luchowswap.com    
-    POLYGON: https://pol.luchowswap.com    
-- CosmicSwap: https://app.cosmicswap.finance
-- MaticSwap: https://maticfront.web.app/farms
-- KangaExchange: https://kanga.exchange
-###### Explorer && Bridge
-- SwissDLT Bridge: https://swissdltbridge.com
+- https://fourtwentyerc.com
+- https://thehealthai.com
+- https://thedadbod.io
+- https://defipal.net
+###### NFT Game
+- https://overworldlife.com/
+- https://tomb.com/
+- https://icicb.com/
