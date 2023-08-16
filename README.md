@@ -13,8 +13,6 @@
 - https://fourtwentyerc.com
 - https://thehealthai.com
 - https://thedadbod.io
-- https://defipal.net
 ###### NFT Game
-- https://overworldlife.com/
 - https://tomb.com/
 - https://icicb.com/
